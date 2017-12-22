@@ -17,6 +17,10 @@ http://stackoverflow.com/questions/19218729/ios-7-mpmusicplayercontroller-volume
 
 ## Version History
 
+### 0.2.1
+
+* Added package.json file for Cordova 7 compatibility.
+
 ### 0.2.0
 
 * Added android version.

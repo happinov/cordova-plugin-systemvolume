@@ -1,4 +1,4 @@
-package com.coqsenpate.cordova;
+package com.happinov.cordova;
 
 import android.media.AudioManager;
 import android.content.Context;
