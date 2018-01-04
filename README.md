@@ -17,18 +17,18 @@ http://stackoverflow.com/questions/19218729/ios-7-mpmusicplayercontroller-volume
 
 ## Version History
 
-### 0.2.1
+### 0.2.2
+  * Fixed Android source-file declaration.
 
-* Added package.json file for Cordova 7 compatibility.
+### 0.2.1
+  * Added package.json file for Cordova 7 compatibility.
 
 ### 0.2.0
-
-* Added android version.
-* Renamed js object (systemVolume => SystemVolume)
+  * Added android version.
+  * Renamed js object (systemVolume => SystemVolume)
 
 ### 0.1.0
-
-* Initial release, works with cordova 5.3.1 and iOS 8.4.1
+  * Initial release, works with cordova 5.3.1 and iOS 8.4.1
 
 ## License
 This code is released under the MIT license.

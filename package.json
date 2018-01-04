@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-systemvolume",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A Cordova plugin that lets you set device volume programmatically.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
